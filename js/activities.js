@@ -89,7 +89,6 @@ function parseTweets(runkeeper_tweets) {
   };
   vegaEmbed("#activityVis", activity_vis_spec, { actions: false });
 
-  // dom updates
   document.getElementById("firstMost").textContent = top3[0] || "—";
   document.getElementById("secondMost").textContent = top3[1] || "—";
   document.getElementById("thirdMost").textContent = top3[2] || "—";

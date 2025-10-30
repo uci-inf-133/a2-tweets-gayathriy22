@@ -31,12 +31,6 @@ function addEventHandlerForSearch() {
       return;
     }
 
-    if (query === "") {
-      searchCountSpan.textContent = "0";
-      searchTextSpan.textContent = "";
-      return;
-    }
-
     const matches = writtenTweets.filter((t) =>
       t.text.toLowerCase().includes(query)
     );

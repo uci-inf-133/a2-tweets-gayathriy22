@@ -11,7 +11,9 @@
 13 hours
 
 3. What online resources did you consult when completing this assignment? (list sites like StackOverflow or specific URLs for tutorials; describe queries to Generative AI or use of AI-based code completion)
-I used ChatGPT to help with creating the regular expression for detecting and hyperlinking URLs, implementing the search functionality logic for filtering written tweets, and formatting some of the Vega-Lite graphs to display the data properly.
+W3Schools and StackOverflow: HTML table Row
+ChatGPT: used for syntax related issues, regular expression assistance, guidance on VegaLite graphs and array filtering, debugging issues.
+StackOverflow: debugging array and mapping, and DOM maniupulation
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 I did not consult anybody to do this assignment.
